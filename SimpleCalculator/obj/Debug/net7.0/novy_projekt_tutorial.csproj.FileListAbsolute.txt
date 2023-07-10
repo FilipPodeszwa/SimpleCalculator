@@ -1,0 +1,15 @@
+D:\Programovani\c_sharp\novy_projekt_tutorial\bin\Debug\net7.0\novy_projekt_tutorial.exe
+D:\Programovani\c_sharp\novy_projekt_tutorial\bin\Debug\net7.0\novy_projekt_tutorial.deps.json
+D:\Programovani\c_sharp\novy_projekt_tutorial\bin\Debug\net7.0\novy_projekt_tutorial.runtimeconfig.json
+D:\Programovani\c_sharp\novy_projekt_tutorial\bin\Debug\net7.0\novy_projekt_tutorial.dll
+D:\Programovani\c_sharp\novy_projekt_tutorial\bin\Debug\net7.0\novy_projekt_tutorial.pdb
+D:\Programovani\c_sharp\novy_projekt_tutorial\obj\Debug\net7.0\novy_projekt_tutorial.csproj.AssemblyReference.cache
+D:\Programovani\c_sharp\novy_projekt_tutorial\obj\Debug\net7.0\novy_projekt_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programovani\c_sharp\novy_projekt_tutorial\obj\Debug\net7.0\novy_projekt_tutorial.AssemblyInfoInputs.cache
+D:\Programovani\c_sharp\novy_projekt_tutorial\obj\Debug\net7.0\novy_projekt_tutorial.AssemblyInfo.cs
+D:\Programovani\c_sharp\novy_projekt_tutorial\obj\Debug\net7.0\novy_projekt_tutorial.csproj.CoreCompileInputs.cache
+D:\Programovani\c_sharp\novy_projekt_tutorial\obj\Debug\net7.0\novy_projekt_tutorial.dll
+D:\Programovani\c_sharp\novy_projekt_tutorial\obj\Debug\net7.0\refint\novy_projekt_tutorial.dll
+D:\Programovani\c_sharp\novy_projekt_tutorial\obj\Debug\net7.0\novy_projekt_tutorial.pdb
+D:\Programovani\c_sharp\novy_projekt_tutorial\obj\Debug\net7.0\novy_projekt_tutorial.genruntimeconfig.cache
+D:\Programovani\c_sharp\novy_projekt_tutorial\obj\Debug\net7.0\ref\novy_projekt_tutorial.dll
